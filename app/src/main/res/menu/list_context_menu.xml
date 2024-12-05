@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/context_open"
+          android:title="@string/menu_open" />
+    <item android:id="@+id/context_copy"
+          android:title="@string/menu_copy" />
+    <item android:id="@+id/context_delete"
+          android:title="@string/menu_delete" />
+    <item
+        android:id="@+id/export_note"
+        android:title="导出笔记"
+        android:icon="@android:drawable/ic_menu_save" />
+</menu>
